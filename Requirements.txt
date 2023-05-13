@@ -1,5 +1,5 @@
 install the following python libraries using :
 pip install pandas
 pip install scikit-learn
-pip install numpy
+pip install seaborn
 pip install matplotlib
